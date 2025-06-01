@@ -5,7 +5,7 @@ public class diff {
     int a = sc.nextInt();
     System.out.println("Enter second num: ");
     int b = sc.nextInt();
-    int diff = b + a;
+    int diff = b - a;
     System.out.println("Difference: " + diff);
   }
 }
